@@ -1,0 +1,32 @@
+.header {
+    background-color:#181818;
+    height: 80px;
+    padding: 20px 300px 20px 300px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+
+    h1 {
+        color: white;
+    }
+    
+    .links {
+        display: flex;
+        flex-direction: row;
+        gap: 40px;
+
+        .link {
+            color: white;
+            font-size: larger;
+            text-decoration: none;
+
+            &:hover {
+                color: gray;
+            }
+            &:active {
+                color: rgb(71, 71, 71);
+            }
+        }
+    }
+}

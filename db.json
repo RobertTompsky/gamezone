@@ -1,0 +1,40 @@
+{
+  "games": [
+    {
+      "id": "285a98cc-e18c-4268-9eed-72a746a36894",
+      "name": "GTA 4",
+      "genre": "Action",
+      "review": "ТОП",
+      "rating": 9,
+      "cover": "https://images.stopgame.ru/games/logos/8052/grand_theft_auto_4-square.jpg"
+    },
+    {
+      "id": "e928968b-7854-411d-ad90-1aa7fca5c9e8",
+      "name": "Battlefield 3",
+      "genre": "Shoter",
+      "review": "ВАН ЛАВ",
+      "rating": 10,
+      "cover": "https://gameguru.ru/media/games/bf3-keyart.jpg.adapt.crop1x1.767p.jpg"
+    },
+    {
+      "id": "2148cd47-6d32-42f9-896e-17145ba39725",
+      "name": "THE WITCHER 3",
+      "genre": "Rpg",
+      "review": "Кюл",
+      "rating": 10,
+      "cover": "https://images.stopgame.ru/games/logos/13092/witcher_3_wild_hunt-square_1.jpg"
+    }
+  ],
+  "users": [
+    {
+      "id": "8be4",
+      "userName": "Гитлер",
+      "password": "228"
+    },
+    {
+      "id": "8adb",
+      "userName": "Гитлер",
+      "password": "228"
+    }
+  ]
+}
